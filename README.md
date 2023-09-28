@@ -30,3 +30,5 @@ Estou comprometido em aprender, crescer e contribuir para a constante revoluçã
   <a href="https://instagram.com/duh_matosj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-jahen-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/EduardoJahen/EduardoJahen/blob/output/github-contribution-grid-snake.svg)
