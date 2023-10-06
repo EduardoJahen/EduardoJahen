@@ -4,10 +4,10 @@
 
 
 
-- :computer: Desenvolvedor FullStack <br>
+- :computer: Desenvolvedor FullStack. <br>
 - :open_book: Comprometido em aprimorar habilidades para enfrentar desafios.<br>
 - 🎬 Amante de filmes, animes e séries.<br>
-- :video_game: Games Favoritos Horizon Zero Dawn | The Last of US | Uncharted 4: A Thief's End<br>
+- :video_game: Games Favoritos Horizon Zero Dawn | The Last of US | Uncharted 4: A Thief's End. <br>
 <br>
 
 ![github profile](https://github.com/EduardoJahen/EduardoJahen/assets/140217272/2566f86e-38e7-4d4c-b923-349cbe10d4fa)
@@ -28,13 +28,15 @@ Estou comprometido em aprender, crescer e contribuir para a constante revoluçã
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoJahen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJahen&layout=compact&langs_count=6&theme=radical"/>
 </div>
-    
+
+<h2>Minhas Stacks </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <hr>
           
    
           
