@@ -3,7 +3,7 @@
 - :computer: Desenvolvedor FullStack <br>
 - :open_book: Comprometido em aprimorar habilidades para enfrentar desafios.<br>
 - 🎬 Amante de filmes, animes e séries.<br>
-- :video_game: Jogo PubG | The Last of US | Fifa<br>
+- :video_game: Games Favoritos Horizon Zero Dawn | The Last of US | Uncharted 4: A Thief's End<br>
 <br>
  Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">  Eu sou Eduardo Jahen, um entusiasta da tecnologia em busca constante de evolução. Como desenvolvedor, mergulho profundamente em diversas tecnologias e frameworks para criar soluções criativas e eficazes.
 <br> <br>
