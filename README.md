@@ -10,7 +10,8 @@
 - :video_game: Games Favoritos Horizon Zero Dawn | The Last of US | Uncharted 4: A Thief's End<br>
 <br>
 
-![github](https://github.com/EduardoJahen/EduardoJahen/assets/140217272/4550a6c6-a30f-44aa-834d-bbe55115cfc4)
+![github profile](https://github.com/EduardoJahen/EduardoJahen/assets/140217272/2566f86e-38e7-4d4c-b923-349cbe10d4fa)
+
 
 Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> 
 
