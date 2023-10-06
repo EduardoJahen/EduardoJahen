@@ -1,11 +1,20 @@
 <h1> Bem-vindo(a) ao Perfil Do Eduardo Jahen 😄 </h1> <br>
+ 
+ 
+
+
 
 - :computer: Desenvolvedor FullStack <br>
 - :open_book: Comprometido em aprimorar habilidades para enfrentar desafios.<br>
 - 🎬 Amante de filmes, animes e séries.<br>
 - :video_game: Games Favoritos Horizon Zero Dawn | The Last of US | Uncharted 4: A Thief's End<br>
 <br>
- Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">  Eu sou Eduardo Jahen, um entusiasta da tecnologia em busca constante de evolução. Como desenvolvedor, mergulho profundamente em diversas tecnologias e frameworks para criar soluções criativas e eficazes.
+
+![github](https://github.com/EduardoJahen/EduardoJahen/assets/140217272/4550a6c6-a30f-44aa-834d-bbe55115cfc4)
+
+Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> 
+
+ Eu sou Eduardo Jahen, um entusiasta da tecnologia em busca constante de evolução. Como desenvolvedor, mergulho profundamente em diversas tecnologias e frameworks para criar soluções criativas e eficazes.
 <br> <br>
 Encontrei na área de Tecnologia não apenas uma carreira, mas uma paixão que me impulsiona a alcançar grandes resultados. Diariamente, dedico meus esforços para aprimorar meu conjunto de habilidades, buscando sempre me tornar um profissional mais competente e preparado para enfrentar os desafios que a programação nos oferece.
 <br> <br>
