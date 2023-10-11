@@ -28,7 +28,10 @@ Estou comprometido em aprender, crescer e contribuir para a constante revoluçã
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoJahen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJahen&layout=compact&langs_count=6&theme=radical"/>
 </div>
-
+    
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoJahen&theme=radical&border_radius=0&locale=pt_BR)](https://git.io/streak-stats)
+    
 <h2>Minhas Stacks </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
