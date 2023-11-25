@@ -15,11 +15,11 @@
 
 Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> 
 
- Eu sou Eduardo Jahen, um entusiasta da tecnologia em busca constante de evolução. Como desenvolvedor, mergulho profundamente em diversas tecnologias e frameworks para criar soluções criativas e eficazes.
+Me chamo Eduardo Jahen, um entusiasta tecnológico em constante busca por evolução. Como desenvolvedor, me aprofundo em diversas tecnologias e frameworks para conceber soluções criativas e eficazes.
 <br> <br>
-Encontrei na área de Tecnologia não apenas uma carreira, mas uma paixão que me impulsiona a alcançar grandes resultados. Diariamente, dedico meus esforços para aprimorar meu conjunto de habilidades, buscando sempre me tornar um profissional mais competente e preparado para enfrentar os desafios que a programação nos oferece.
+A área de Tecnologia não é apenas uma carreira para mim, mas uma paixão que me impulsiona a conquistar grandes resultados. Diariamente, dedico meus esforços para aprimorar meu conjunto de habilidades, visando me tornar um profissional mais competente e preparado para os desafios que a programação nos apresenta.
 <br> <br>
-Estou comprometido em aprender, crescer e contribuir para a constante revolução tecnológica que molda o nosso mundo. Vamos juntos nessa jornada de inovação e descobertas!
+Meu compromisso é aprender, crescer e contribuir para a constante revolução tecnológica que molda nosso mundo. Vamos juntos nessa jornada de inovação e descobertas!
 
 <hr>
 
