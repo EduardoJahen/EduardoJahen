@@ -4,11 +4,11 @@
 
 
 
-- :computer: Desenvolvedor FullStack. <br>
-- :open_book: Comprometido em aprimorar habilidades para enfrentar desafios.<br>
-- 🎬 Amante de filmes, animes e séries.<br>
-- :video_game: Games Favoritos Horizon Zero Dawn | The Last of US | Uncharted 4: A Thief's End. <br>
-<br>
+- 🚀 Iniciante em Desenvolvimento Web Front-End, buscando expandir conhecimentos para mergulhar no universo FullStack. <br>
+- 📚 Comprometido em aprimorar habilidades para superar desafios e crescer profissionalmente. <br>
+- 🎥 Apaixonado por filmes, séries e animes. <br>
+- 🎮 Jogos Favoritos: Horizon Zero Dawn, The Last of Us, Uncharted 4: A Thief's End. <br>
+- 💡 Atualmente, também explorando estudos em Back-End. <br>
 
 ![github profile](https://github.com/EduardoJahen/EduardoJahen/assets/140217272/2566f86e-38e7-4d4c-b923-349cbe10d4fa)
 
